@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="homestyle.css" rel="stylesheet" type ="text/css">
+<link href="hstyle.css" rel="stylesheet" type ="text/css">
 </head>
 <body class="homebody" style="max-width:1300px; ">
 <div class="c1">

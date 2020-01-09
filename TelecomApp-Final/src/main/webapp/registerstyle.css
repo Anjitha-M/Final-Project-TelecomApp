@@ -17,6 +17,7 @@ button {
     cursor: pointer;
     width: 100%;
      border-radius: 1.5em;
+
 }
 
 button:hover {
@@ -34,7 +35,7 @@ button:hover {
     body{
     padding: 12px 20px;
    text-align: center;
-     background-color: #F3EBF6;
+    background-color: #F3EBF6;
     }
 
 

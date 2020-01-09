@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="userinputstyle.css" rel="stylesheet" type="text/css" />
+<link href="loginstyle.css" rel="stylesheet" type="text/css" />
 </head>
 <body >
 <h1 style="text-align: center; margin: 10px"> RECHARGE  </h1>

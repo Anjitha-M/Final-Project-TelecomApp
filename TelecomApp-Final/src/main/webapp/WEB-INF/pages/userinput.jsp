@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="userinputstyle.css" rel="stylesheet" type="text/css" />
+<link href="loginstyle.css" rel="stylesheet" type="text/css" />
 </head>
 <body >
 <h1 style="text-align: center; margin: 10px"> LOGIN </h1>
@@ -20,10 +20,12 @@
 </div>
 
 <div class="aaa">
-<button type="submit" align="center" value="Submit"/> Login </button>
+<button class="btn" type="submit" align="center" value="Submit"/> Login </button>
+New User? <button class="btn1" > <a href="/register"> REGISTER </a></button>
 </div>
 
 
 </form>
+
 </body>
 </html>
